@@ -23,6 +23,7 @@ It is built following a **Hierarchical Network Design model** (Core, Distributio
 1. Clone this repository:
    ```bash
    git clone https://github.com/menithanagesh/Enterprise-Network-CPT.git
+2. [Download Packet Tracer File](cisco project.pkt)
 
 ## Network Diagram
 <img width="1445" height="515" alt="project" src="https://github.com/user-attachments/assets/7a9c389e-4102-4fc0-a944-b839c978dc52" />
